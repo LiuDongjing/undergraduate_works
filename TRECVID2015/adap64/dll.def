@@ -1,0 +1,2 @@
+LIBRARY		adap64
+EXPORTS		mexFunction
