@@ -1,0 +1,2 @@
+LIBRARY		mexRANSAC
+EXPORTS		mexFunction
