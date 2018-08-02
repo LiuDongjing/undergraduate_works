@@ -1,11 +1,11 @@
 # TRECVID2015
 
-- query adaptive µÄmatlabº¯Êı£¬CÊµÏÖ£º[adap64][adap64]
-- ÑÕÉ«¹ıÂËËã·¨£º[NewColor][newcolor]
-- RANSACµÄmatlabº¯Êı£¬C++ÊµÏÖ£º[mexRANSAC][ransac]
-- ³µÁ¾¼ì²âËã·¨£º[MtVehcile][mtv]
+- query adaptive çš„matlabå‡½æ•°ï¼ŒCå®ç°ï¼š[adap64][adap64]
+- é¢œè‰²è¿‡æ»¤ç®—æ³•ï¼š[NewColor][newcolor]
+- RANSACçš„matlabå‡½æ•°ï¼ŒC++å®ç°ï¼š[mexRANSAC][ransac]
+- è½¦è¾†æ£€æµ‹ç®—æ³•ï¼š[MtVehcile][mtv]
 
-## ¹ØÓÚ±ÈÈü
+## å…³äºæ¯”èµ›
 > The [TREC][trec] conference series is sponsored by the National 
 > Institute of Standards and Technology ([NIST][nist]) with additional 
 > support from other U.S. government agencies.In 2001 and 2002 the 
@@ -14,16 +14,19 @@
 > Beginning in 2003, this track became an independent evaluation ([TRECVID][trecvid]) 
 > with a workshop taking place just before TREC. 
 
-2015ÄêINS×Ó±ÈÈüµÄ×Ü½á±¨¸æ[![slides][ins-preview]][ins-slides]
+2015å¹´INSå­æ¯”èµ›çš„æ€»ç»“æŠ¥å‘Š[![slides][ins-preview]][ins-slides]
 
-## ¼¼Êõ±¨¸æ
+## æŠ€æœ¯æŠ¥å‘Š
 [![nercms.pdf][report-preview]][tech-report]
 
-## ½á¹û
-![½á¹û][result]
+## ç»“æœ
+![ç»“æœ][result]
+
+## æ’å
+![æ’å][rank]
 
 ----
-ÊµÑéÊÒ@[NERCMS][nercms]
+å®éªŒå®¤@[NERCMS][nercms]
 
 [nercms]: http://multimedia.whu.edu.cn/
 [tech-report]: http://www-nlpir.nist.gov/projects/tvpubs/tv15.papers/nercms.pdf
@@ -32,6 +35,7 @@
 [nist]: http://trec.nist.gov/
 [trecvid]: http://www-nlpir.nist.gov/projects/trecvid/
 [result]: images/result.png
+[rank]: images/rank.PNG
 [ins-preview]: images/ins-preview.jpg
 [report-preview]: images/report-preview.jpg
 [adap64]: adap64/README.md
